@@ -9,8 +9,8 @@ https://pro.academind.com/p/vue-3-the-complete-guide
 4. Course Project: The Monster Slayer Game ✅
 5. Vue: Behind the Scenes ✅
 6. Introducing Components ✅
-7. Moving to a Better Development Setup & Workflow with the Vue CLI
-8. Component Communication
+7. Moving to a Better Development Setup & Workflow with the Vue CLI ✅
+8. Component Communication ✅
 9. Diving Deeper Into Components
 10. Course Project: The Learning Resources App
 11. Forms
