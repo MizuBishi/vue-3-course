@@ -1,6 +1,6 @@
 # Components Communication
 
-- why not change props value? Unidirectional Data Flow. Data has one and only one way to be transferred to other parts of the application
+- why not change props value? **Unidirectional** Data Flow. Data has one and only one way to be transferred to other parts of the application
 - if a component is optional (`required: false`), you should provide a d default value.
 - Communication Parent to Component: trough `props`
 - Communication Component to Parent: trough `$emit`: you have to pass the name of the event and every props you like
